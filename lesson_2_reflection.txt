@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+Nothing happens
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Staging hasn't been commited. Its a last chance thing to go make sure you want to commit
